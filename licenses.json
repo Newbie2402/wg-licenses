@@ -6,6 +6,13 @@
         "ABCD1234"
       ],
       "banned": false
+    },
+    "WG-6IOM-YX26-KTG0": {
+      "allowed_devices": 5,
+      "devices": [
+        "2938C2FE278DED89"
+      ],
+      "banned": false
     }
   }
 }
