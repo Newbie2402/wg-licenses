@@ -10,7 +10,8 @@
     "WG-6IOM-YX26-KTG0": {
       "allowed_devices": 5,
       "devices": [
-        "2938C2FE278DED89"
+        "2938C2FE278DED89",
+        "6E5C8425A7A873B8"
       ],
       "banned": false
     }
