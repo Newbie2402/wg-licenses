@@ -54,6 +54,14 @@
       ],
       "banned": false,
       "expire_at": "2025-11-30"
+    },
+    "WG-QIR4-HNJG-7PUS": {
+      "allowed_devices": 5,
+      "devices": [
+        "2938C2FE278DED89"
+      ],
+      "banned": false,
+      "expire_at": "2025-11-29"
     }
   }
 }
