@@ -22,6 +22,14 @@
       ],
       "banned": false,
       "expire_at": "2025-11-28"
+    },
+    "WG-XV8W-2ZM6-XOIQ": {
+      "allowed_devices": 5,
+      "devices": [
+        "47B019E883B5D9B3"
+      ],
+      "banned": false,
+      "expire_at": "2026-11-24"
     }
   }
 }
