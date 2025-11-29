@@ -38,6 +38,14 @@
       ],
       "banned": false,
       "expire_at": "2045-08-16"
+    },
+    "WG-SOJH-K5DS-VKNA": {
+      "allowed_devices": 5,
+      "devices": [
+        "2938C2FE278DED89"
+      ],
+      "banned": false,
+      "expire_at": "2025-11-28"
     }
   }
 }
