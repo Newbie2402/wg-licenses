@@ -63,6 +63,14 @@
       ],
       "banned": false,
       "expire_at": "2025-11-29"
+    },
+    "WG-9CSB-LCC3-XPW7": {
+      "allowed_devices": 6,
+      "devices": [
+        "9203AB53E763CC08"
+      ],
+      "banned": false,
+      "expire_at": "2053-07-06"
     }
   }
 }
