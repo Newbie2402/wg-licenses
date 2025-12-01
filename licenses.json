@@ -104,6 +104,14 @@
       ],
       "banned": false,
       "expire_at": "2053-04-18"
+    },
+    "WG-DX0U-XWK1-UVUU": {
+      "allowed_devices": 6,
+      "devices": [
+        "19036C008AB8BC5B"
+      ],
+      "banned": false,
+      "expire_at": "2053-04-18"
     }
   }
 }
