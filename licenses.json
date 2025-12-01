@@ -87,6 +87,14 @@
       ],
       "banned": false,
       "expire_at": "2053-04-18"
+    },
+    "WG-Q1Z3-N5FQ-NUN7": {
+      "allowed_devices": 6,
+      "devices": [
+        "186D1F18FDB9CF80"
+      ],
+      "banned": false,
+      "expire_at": "2053-04-18"
     }
   }
 }
