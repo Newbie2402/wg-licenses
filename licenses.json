@@ -120,6 +120,14 @@
       ],
       "banned": false,
       "expire_at": "2080-09-03"
+    },
+    "WG-595T-57DR-A4PX": {
+      "allowed_devices": 6,
+      "devices": [
+        "64F42E754130B659"
+      ],
+      "banned": false,
+      "expire_at": "2066-12-26"
     }
   }
 }
