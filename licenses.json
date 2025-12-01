@@ -112,6 +112,14 @@
       ],
       "banned": false,
       "expire_at": "2053-04-18"
+    },
+    "WG-UAF4-VHWJ-IMD6": {
+      "allowed_devices": 7,
+      "devices": [
+        "1DDF1442A451ECB6"
+      ],
+      "banned": false,
+      "expire_at": "2080-09-03"
     }
   }
 }
