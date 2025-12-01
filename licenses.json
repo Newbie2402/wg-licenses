@@ -71,6 +71,14 @@
       ],
       "banned": false,
       "expire_at": "2053-07-06"
+    },
+    "WG-1H53-GK8D-C0T7": {
+      "allowed_devices": 6,
+      "devices": [
+        "E0C86F1C05426A6B"
+      ],
+      "banned": false,
+      "expire_at": "2053-04-18"
     }
   }
 }
