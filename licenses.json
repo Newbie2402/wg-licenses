@@ -99,7 +99,8 @@
     "WG-Z2B4-WI7S-OBZM": {
       "allowed_devices": 6,
       "devices": [
-        "6C87433ACA76451C"
+        "6C87433ACA76451C",
+        "6CB7433ACA76451C"
       ],
       "banned": false,
       "expire_at": "2053-04-18"
