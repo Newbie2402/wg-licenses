@@ -128,6 +128,14 @@
       ],
       "banned": false,
       "expire_at": "2066-12-26"
+    },
+    "WG-7WOO-1IV2-0KIY": {
+      "allowed_devices": 6,
+      "devices": [
+        "379032719543E4EB"
+      ],
+      "banned": false,
+      "expire_at": "2058-10-10"
     }
   }
 }
