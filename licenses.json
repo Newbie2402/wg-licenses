@@ -138,6 +138,14 @@
       ],
       "banned": false,
       "expire_at": "2058-10-10"
+    },
+    "WG-WYRX-JIM2-AIHO": {
+      "allowed_devices": 6,
+      "devices": [
+        "31155DEB2EF4CF2D"
+      ],
+      "banned": false,
+      "expire_at": "2058-10-14"
     }
   }
 }
