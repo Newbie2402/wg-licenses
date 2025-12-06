@@ -150,7 +150,8 @@
     "WG-KFX5-RZOC-4YRB": {
       "allowed_devices": 100,
       "devices": [
-        "3ACCE97106E35B25"
+        "3ACCE97106E35B25",
+        "FB5A86656DACAD99"
       ],
       "banned": false,
       "expire_at": "2299-09-21"
