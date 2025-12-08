@@ -156,6 +156,14 @@
       ],
       "banned": false,
       "expire_at": "2299-09-21"
+    },
+    "WG-JJTX-XPX7-BIWQ": {
+      "allowed_devices": 8,
+      "devices": [
+        "ACB4FB8C66D46D4D"
+      ],
+      "banned": false,
+      "expire_at": "2058-10-16"
     }
   }
 }
