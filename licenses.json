@@ -160,7 +160,8 @@
     "WG-JJTX-XPX7-BIWQ": {
       "allowed_devices": 8,
       "devices": [
-        "ACB4FB8C66D46D4D"
+        "ACB4FB8C66D46D4D",
+        "6F65883AE84CEB52"
       ],
       "banned": false,
       "expire_at": "2058-10-16"
