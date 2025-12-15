@@ -169,7 +169,8 @@
     "WG-42GU-4SGC-KNDS": {
       "allowed_devices": 2,
       "devices": [
-        "0448CD501901707D"
+        "0448CD501901707D",
+        "75878D98-9B29-5BAF-8AEA-DDC72692035D"
       ],
       "banned": false,
       "expire_at": "2299-09-30"
