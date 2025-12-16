@@ -175,6 +175,14 @@
       ],
       "banned": false,
       "expire_at": "2299-09-30"
+    },
+    "WG-DF6U-E4R3-MT6X": {
+      "allowed_devices": 3,
+      "devices": [
+        "75528AE9873E7005"
+      ],
+      "banned": false,
+      "expire_at": "2053-05-03"
     }
   }
 }
