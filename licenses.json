@@ -191,6 +191,14 @@
       ],
       "banned": false,
       "expire_at": "2354-07-06"
+    },
+    "WG-N8C9-OAN7-AFCO": {
+      "allowed_devices": 5,
+      "devices": [
+        "8DE03DA9EC89167B"
+      ],
+      "banned": false,
+      "expire_at": "2058-10-25"
     }
   }
 }
