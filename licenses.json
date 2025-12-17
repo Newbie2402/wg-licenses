@@ -199,6 +199,14 @@
       ],
       "banned": false,
       "expire_at": "2058-10-25"
+    },
+    "WG-95AT-LNYT-WKT7": {
+      "allowed_devices": 5,
+      "devices": [
+        "4B99738B5C839069"
+      ],
+      "banned": false,
+      "expire_at": "2354-07-06"
     }
   }
 }
