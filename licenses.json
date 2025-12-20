@@ -207,6 +207,15 @@
       ],
       "banned": false,
       "expire_at": "2354-07-06"
+    },
+    "WG-HYOW-IVAV-4S1V": {
+      "allowed_devices": 200,
+      "devices": [
+        "3ACCE97106E35B25"
+      ],
+      "banned": false,
+      "expire_at": "4763-11-17",
+      "created_at": "2025-12-20"
     }
   }
 }
