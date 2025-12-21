@@ -225,6 +225,14 @@
       "banned": false,
       "expire_at": "2026-01-19",
       "created_at": "2025-12-20"
+    },
+    "WG-OV6E-XPHV-TDWQ": {
+      "allowed_devices": 3,
+      "devices": [
+        "4F5B04344C6286EB"
+      ],
+      "banned": false,
+      "expire_at": "2354-07-10"
     }
   }
 }
