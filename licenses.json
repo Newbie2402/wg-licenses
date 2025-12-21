@@ -229,7 +229,8 @@
     "WG-OV6E-XPHV-TDWQ": {
       "allowed_devices": 3,
       "devices": [
-        "4F5B04344C6286EB"
+        "4F5B04344C6286EB",
+        "43598A8D930E3DE2"
       ],
       "banned": false,
       "expire_at": "2354-07-10"
