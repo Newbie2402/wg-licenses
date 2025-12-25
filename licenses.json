@@ -270,6 +270,15 @@
       "banned": false,
       "expire_at": "2436-09-01",
       "created_at": "2025-12-25"
+    },
+    "WG-P5TN-NE2V-Q4O7": {
+      "allowed_devices": 5,
+      "devices": [
+        "53F6661754072E67"
+      ],
+      "banned": false,
+      "expire_at": "2067-01-19",
+      "created_at": "2025-12-25"
     }
   }
 }
