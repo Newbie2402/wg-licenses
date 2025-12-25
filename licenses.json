@@ -243,6 +243,15 @@
       "banned": false,
       "expire_at": "2381-11-28",
       "created_at": "2025-12-24"
+    },
+    "WG-CYKM-9LA7-HMOS": {
+      "allowed_devices": 5,
+      "devices": [
+        "15B4B51F6E71B476"
+      ],
+      "banned": false,
+      "expire_at": "2354-07-14",
+      "created_at": "2025-12-25"
     }
   }
 }
