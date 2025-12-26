@@ -288,6 +288,15 @@
       "banned": false,
       "expire_at": "2354-07-15",
       "created_at": "2025-12-26"
+    },
+    "WG-G7EA-UAWD-WO4Y": {
+      "allowed_devices": 5,
+      "devices": [
+        "53F6661754072E67"
+      ],
+      "banned": false,
+      "expire_at": "2058-11-03",
+      "created_at": "2025-12-26"
     }
   }
 }
