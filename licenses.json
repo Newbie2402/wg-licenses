@@ -187,7 +187,8 @@
     "WG-PG2B-EOVC-BZWM": {
       "allowed_devices": 5,
       "devices": [
-        "45F859C1AA262D17"
+        "45F859C1AA262D17",
+        "929C0DAA5C32A23E"
       ],
       "banned": false,
       "expire_at": "2354-07-06"
