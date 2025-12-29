@@ -298,6 +298,15 @@
       "banned": false,
       "expire_at": "2058-11-03",
       "created_at": "2025-12-26"
+    },
+    "WG-9NED-KDSL-U1K6": {
+      "allowed_devices": 5,
+      "devices": [
+        "E8645461E0B136C2"
+      ],
+      "banned": false,
+      "expire_at": "2067-01-23",
+      "created_at": "2025-12-29"
     }
   }
 }
