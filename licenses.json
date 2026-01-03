@@ -302,7 +302,8 @@
     "WG-9NED-KDSL-U1K6": {
       "allowed_devices": 5,
       "devices": [
-        "E8645461E0B136C2"
+        "E8645461E0B136C2",
+        "4B99738B5C839069"
       ],
       "banned": false,
       "expire_at": "2067-01-23",
