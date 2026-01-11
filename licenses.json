@@ -344,6 +344,15 @@
       "banned": false,
       "expire_at": "2067-02-05",
       "created_at": "2026-01-11"
+    },
+    "WG-7IP9-CARF-BZFC": {
+      "allowed_devices": 5,
+      "devices": [
+        "43598A8D930E3DE2"
+      ],
+      "banned": false,
+      "expire_at": "2067-02-05",
+      "created_at": "2026-01-11"
     }
   }
 }
