@@ -353,6 +353,15 @@
       "banned": false,
       "expire_at": "2067-02-05",
       "created_at": "2026-01-11"
+    },
+    "WG-4Z00-8FD4-U64J": {
+      "allowed_devices": 3,
+      "devices": [
+        "2A15EFC4040D651C"
+      ],
+      "banned": false,
+      "expire_at": "2080-10-14",
+      "created_at": "2026-01-11"
     }
   }
 }
