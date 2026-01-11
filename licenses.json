@@ -335,6 +335,15 @@
       "banned": false,
       "expire_at": "2067-02-04",
       "created_at": "2026-01-10"
+    },
+    "WG-PSDJ-M8OQ-XTP2": {
+      "allowed_devices": 3,
+      "devices": [
+        "D16B403EF57849BF"
+      ],
+      "banned": false,
+      "expire_at": "2067-02-05",
+      "created_at": "2026-01-11"
     }
   }
 }
