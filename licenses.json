@@ -362,6 +362,15 @@
       "banned": false,
       "expire_at": "2080-10-14",
       "created_at": "2026-01-11"
+    },
+    "WG-RTW0-G1XK-TG6F": {
+      "allowed_devices": 3,
+      "devices": [
+        "CB05B0D88D86AE1F"
+      ],
+      "banned": false,
+      "expire_at": "2069-11-06",
+      "created_at": "2026-01-16"
     }
   }
 }
