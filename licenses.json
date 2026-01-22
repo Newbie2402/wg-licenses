@@ -380,6 +380,15 @@
       "banned": false,
       "expire_at": "2436-09-28",
       "created_at": "2026-01-21"
+    },
+    "WG-TFOA-S4X3-E36R": {
+      "allowed_devices": 3,
+      "devices": [
+        "4B99738B5C839069"
+      ],
+      "banned": false,
+      "expire_at": "2436-09-29",
+      "created_at": "2026-01-22"
     }
   }
 }
