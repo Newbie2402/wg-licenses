@@ -389,6 +389,15 @@
       "banned": false,
       "expire_at": "2436-09-29",
       "created_at": "2026-01-22"
+    },
+    "WG-DQ2Z-OO9B-TC59": {
+      "allowed_devices": 3,
+      "devices": [
+        "F3290198686D0638"
+      ],
+      "banned": false,
+      "expire_at": "2061-08-26",
+      "created_at": "2026-01-22"
     }
   }
 }
