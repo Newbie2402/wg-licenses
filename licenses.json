@@ -398,6 +398,15 @@
       "banned": false,
       "expire_at": "2061-08-26",
       "created_at": "2026-01-22"
+    },
+    "WG-WGNM-73ZR-K5S1": {
+      "allowed_devices": 2,
+      "devices": [
+        "F5A58B4967B90371"
+      ],
+      "banned": false,
+      "expire_at": "2061-08-31",
+      "created_at": "2026-01-27"
     }
   }
 }
