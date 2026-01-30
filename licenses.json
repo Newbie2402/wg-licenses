@@ -407,6 +407,15 @@
       "banned": false,
       "expire_at": "2061-08-31",
       "created_at": "2026-01-27"
+    },
+    "WG-SL9P-4PDN-XJW3": {
+      "allowed_devices": 5,
+      "devices": [
+        "E95AC19BBC205091"
+      ],
+      "banned": false,
+      "expire_at": "2067-02-24",
+      "created_at": "2026-01-30"
     }
   }
 }
