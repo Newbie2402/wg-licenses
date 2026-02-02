@@ -425,6 +425,15 @@
       "banned": false,
       "expire_at": "2067-02-24",
       "created_at": "2026-01-30"
+    },
+    "WG-3J8C-DYWM-I0KM": {
+      "allowed_devices": 100,
+      "devices": [
+        "67F9A8E82E7ABCFC"
+      ],
+      "banned": false,
+      "expire_at": "2299-11-18",
+      "created_at": "2026-02-02"
     }
   }
 }
