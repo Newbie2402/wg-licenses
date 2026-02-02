@@ -429,7 +429,8 @@
     "WG-3J8C-DYWM-I0KM": {
       "allowed_devices": 100,
       "devices": [
-        "67F9A8E82E7ABCFC"
+        "67F9A8E82E7ABCFC",
+        "840475A29B00065A"
       ],
       "banned": false,
       "expire_at": "2299-11-18",
