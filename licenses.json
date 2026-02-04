@@ -102,7 +102,8 @@
       "allowed_devices": 6,
       "devices": [
         "6C87433ACA76451C",
-        "6CB7433ACA76451C"
+        "6CB7433ACA76451C",
+        "14EB60D38B5B681A"
       ],
       "banned": false,
       "expire_at": "2053-04-18"
