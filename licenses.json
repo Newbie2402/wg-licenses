@@ -197,7 +197,8 @@
     "WG-N8C9-OAN7-AFCO": {
       "allowed_devices": 5,
       "devices": [
-        "8DE03DA9EC89167B"
+        "8DE03DA9EC89167B",
+        "C89DC89CAE335C66"
       ],
       "banned": false,
       "expire_at": "2058-10-25"
