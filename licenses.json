@@ -437,6 +437,15 @@
       "banned": false,
       "expire_at": "2299-11-18",
       "created_at": "2026-02-02"
+    },
+    "WG-JFNA-ZM5T-NCI3": {
+      "allowed_devices": 5,
+      "devices": [
+        "FC88126144C73FDD"
+      ],
+      "banned": false,
+      "expire_at": "2080-11-13",
+      "created_at": "2026-02-10"
     }
   }
 }
