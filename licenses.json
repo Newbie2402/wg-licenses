@@ -455,6 +455,15 @@
       "banned": false,
       "expire_at": "2058-12-24",
       "created_at": "2026-02-15"
+    },
+    "WG-Q2ZX-2E0S-8E9R": {
+      "allowed_devices": 5,
+      "devices": [
+        "30274DC9DDE723EB"
+      ],
+      "banned": false,
+      "expire_at": "2108-04-06",
+      "created_at": "2026-02-15"
     }
   }
 }
