@@ -446,6 +446,15 @@
       "banned": false,
       "expire_at": "2080-11-13",
       "created_at": "2026-02-10"
+    },
+    "WG-6Q4Q-T5SC-NNPB": {
+      "allowed_devices": 3,
+      "devices": [
+        "E45E694F60B168C0"
+      ],
+      "banned": false,
+      "expire_at": "2058-12-24",
+      "created_at": "2026-02-15"
     }
   }
 }
