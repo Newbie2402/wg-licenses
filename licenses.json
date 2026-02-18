@@ -469,7 +469,8 @@
     "WG-06FY-YGCM-H74X": {
       "allowed_devices": 3,
       "devices": [
-        "DECFBD18F57054E0"
+        "DECFBD18F57054E0",
+        "F23D15982C8A9B78"
       ],
       "banned": false,
       "expire_at": "2080-11-20",
