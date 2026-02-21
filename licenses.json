@@ -493,6 +493,15 @@
       "banned": false,
       "expire_at": "2067-03-18",
       "created_at": "2026-02-21"
+    },
+    "WG-G4FK-DROW-EOZY": {
+      "allowed_devices": 3,
+      "devices": [
+        "8A1934A3C47CFE15"
+      ],
+      "banned": false,
+      "expire_at": "2058-12-30",
+      "created_at": "2026-02-21"
     }
   }
 }
