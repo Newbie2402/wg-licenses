@@ -484,6 +484,15 @@
       "banned": false,
       "expire_at": "2108-04-10",
       "created_at": "2026-02-19"
+    },
+    "WG-SCUT-5BYX-RT1O": {
+      "allowed_devices": 3,
+      "devices": [
+        "516D6B3B7ED1945F"
+      ],
+      "banned": false,
+      "expire_at": "2067-03-18",
+      "created_at": "2026-02-21"
     }
   }
 }
