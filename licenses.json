@@ -396,7 +396,8 @@
     "WG-DQ2Z-OO9B-TC59": {
       "allowed_devices": 3,
       "devices": [
-        "F3290198686D0638"
+        "F3290198686D0638",
+        "8A1934A3C47CFE15"
       ],
       "banned": false,
       "expire_at": "2061-08-26",
