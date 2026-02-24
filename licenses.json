@@ -503,6 +503,15 @@
       "banned": false,
       "expire_at": "2058-12-30",
       "created_at": "2026-02-21"
+    },
+    "WG-NE45-RSQX-INB8": {
+      "allowed_devices": 3,
+      "devices": [
+        "807614E7229981A3"
+      ],
+      "banned": false,
+      "expire_at": "2080-11-27",
+      "created_at": "2026-02-24"
     }
   }
 }
