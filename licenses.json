@@ -521,6 +521,15 @@
       "banned": false,
       "expire_at": "2108-04-17",
       "created_at": "2026-02-26"
+    },
+    "WG-Q9YU-4AQ8-UJVY": {
+      "allowed_devices": 3,
+      "devices": [
+        "8CCAB7340ABB2E0B"
+      ],
+      "banned": false,
+      "expire_at": "2080-11-30",
+      "created_at": "2026-02-27"
     }
   }
 }
