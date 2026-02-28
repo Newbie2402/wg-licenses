@@ -530,6 +530,15 @@
       "banned": false,
       "expire_at": "2080-11-30",
       "created_at": "2026-02-27"
+    },
+    "WG-IWW0-ZIH3-36NX": {
+      "allowed_devices": 3,
+      "devices": [
+        "D7C98A9E18139B2D"
+      ],
+      "banned": false,
+      "expire_at": "2163-01-21",
+      "created_at": "2026-02-28"
     }
   }
 }
