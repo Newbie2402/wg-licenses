@@ -557,6 +557,15 @@
       "banned": false,
       "expire_at": "2059-01-06",
       "created_at": "2026-02-28"
+    },
+    "WG-6V7W-RL1S-7NHS": {
+      "allowed_devices": 3,
+      "devices": [
+        "A3939FD9E8C6B432"
+      ],
+      "banned": false,
+      "expire_at": "2066-02-19",
+      "created_at": "2026-03-01"
     }
   }
 }
