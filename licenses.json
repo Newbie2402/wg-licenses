@@ -584,6 +584,15 @@
       "banned": false,
       "expire_at": "2067-04-01",
       "created_at": "2026-03-07"
+    },
+    "WG-HTIO-A6H0-49WF": {
+      "allowed_devices": 3,
+      "devices": [
+        "2E4873028B8C5F40"
+      ],
+      "banned": false,
+      "expire_at": "2067-04-02",
+      "created_at": "2026-03-08"
     }
   }
 }
