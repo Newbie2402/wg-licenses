@@ -593,6 +593,15 @@
       "banned": false,
       "expire_at": "2067-04-02",
       "created_at": "2026-03-08"
+    },
+    "WG-2A34-RQW8-S4WQ": {
+      "allowed_devices": 3,
+      "devices": [
+        "9A9D5EBE439901E1"
+      ],
+      "banned": false,
+      "expire_at": "2067-04-02",
+      "created_at": "2026-03-08"
     }
   }
 }
