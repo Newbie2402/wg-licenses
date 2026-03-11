@@ -611,6 +611,15 @@
       "banned": false,
       "expire_at": "2067-04-05",
       "created_at": "2026-03-11"
+    },
+    "WG-1LMR-I26L-XSAA": {
+      "allowed_devices": 3,
+      "devices": [
+        "4B99738B5C839069"
+      ],
+      "banned": false,
+      "expire_at": "2059-01-17",
+      "created_at": "2026-03-11"
     }
   }
 }
