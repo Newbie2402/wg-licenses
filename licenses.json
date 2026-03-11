@@ -397,7 +397,8 @@
       "allowed_devices": 3,
       "devices": [
         "F3290198686D0638",
-        "8A1934A3C47CFE15"
+        "8A1934A3C47CFE15",
+        "C23A5ECC71703153"
       ],
       "banned": false,
       "expire_at": "2061-08-26",
