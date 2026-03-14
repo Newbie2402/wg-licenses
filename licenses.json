@@ -649,6 +649,15 @@
       "banned": false,
       "expire_at": "2067-04-08",
       "created_at": "2026-03-14"
+    },
+    "WG-ZXNS-VOYG-0X47": {
+      "allowed_devices": 100,
+      "devices": [
+        "56FCB83DF217CA86"
+      ],
+      "banned": false,
+      "expire_at": "2031-09-04",
+      "created_at": "2026-03-14"
     }
   }
 }
