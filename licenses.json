@@ -462,7 +462,8 @@
     "WG-Q2ZX-2E0S-8E9R": {
       "allowed_devices": 5,
       "devices": [
-        "30274DC9DDE723EB"
+        "30274DC9DDE723EB",
+        "56FCB83DF217CA86"
       ],
       "banned": false,
       "expire_at": "2108-04-06",
