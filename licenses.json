@@ -572,7 +572,8 @@
     "WG-T61X-5UE1-REKR": {
       "allowed_devices": 3,
       "devices": [
-        "0B75DBC64D6CA530"
+        "0B75DBC64D6CA530",
+        "FB95C946A81CE9C0"
       ],
       "banned": false,
       "expire_at": "2067-03-31",
