@@ -600,7 +600,8 @@
     "WG-2A34-RQW8-S4WQ": {
       "allowed_devices": 3,
       "devices": [
-        "9A9D5EBE439901E1"
+        "9A9D5EBE439901E1",
+        "60FC7D7C905DACA9"
       ],
       "banned": false,
       "expire_at": "2067-04-02",
