@@ -687,6 +687,15 @@
       "banned": false,
       "expire_at": "2061-10-24",
       "created_at": "2026-03-22"
+    },
+    "WG-ECVL-9DB8-NQR0": {
+      "allowed_devices": 2,
+      "devices": [
+        "DB8192F4C3BC9F2B"
+      ],
+      "banned": false,
+      "expire_at": "2067-04-20",
+      "created_at": "2026-03-26"
     }
   }
 }
