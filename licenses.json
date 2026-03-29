@@ -696,6 +696,15 @@
       "banned": false,
       "expire_at": "2067-04-20",
       "created_at": "2026-03-26"
+    },
+    "WG-X0TT-5ME6-K8CL": {
+      "allowed_devices": 3,
+      "devices": [
+        "53ECB7ED524C9771"
+      ],
+      "banned": false,
+      "expire_at": "2067-04-23",
+      "created_at": "2026-03-29"
     }
   }
 }
