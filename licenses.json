@@ -705,6 +705,15 @@
       "banned": false,
       "expire_at": "2067-04-23",
       "created_at": "2026-03-29"
+    },
+    "WG-8WNO-ITHS-00VQ": {
+      "allowed_devices": 3,
+      "devices": [
+        "3094788CF5DD1194"
+      ],
+      "banned": false,
+      "expire_at": "2072-10-15",
+      "created_at": "2026-03-31"
     }
   }
 }
