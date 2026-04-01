@@ -718,7 +718,8 @@
     "WG-D2SF-0L04-HHZC": {
       "allowed_devices": 3,
       "devices": [
-        "2B5DF06C7B18DD35"
+        "2B5DF06C7B18DD35",
+        "B3E532A71C5D8817"
       ],
       "banned": false,
       "expire_at": "2081-01-01",
