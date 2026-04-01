@@ -724,6 +724,15 @@
       "banned": false,
       "expire_at": "2081-01-01",
       "created_at": "2026-03-31"
+    },
+    "WG-EX3F-5D8U-3GG8": {
+      "allowed_devices": 3,
+      "devices": [
+        "A2817DE44373EA5C"
+      ],
+      "banned": false,
+      "expire_at": "2081-01-02",
+      "created_at": "2026-04-01"
     }
   }
 }
