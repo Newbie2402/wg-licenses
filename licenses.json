@@ -733,6 +733,15 @@
       "banned": false,
       "expire_at": "2081-01-02",
       "created_at": "2026-04-01"
+    },
+    "WG-A6HU-59WT-X37S": {
+      "allowed_devices": 3,
+      "devices": [
+        "74FFE06940444DB7"
+      ],
+      "banned": false,
+      "expire_at": "2067-04-27",
+      "created_at": "2026-04-02"
     }
   }
 }
