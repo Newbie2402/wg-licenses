@@ -742,6 +742,15 @@
       "banned": false,
       "expire_at": "2067-04-27",
       "created_at": "2026-04-02"
+    },
+    "WG-OT6U-P1TY-3V54": {
+      "allowed_devices": 3,
+      "devices": [
+        "B8A914DDAEA7C362"
+      ],
+      "banned": false,
+      "expire_at": "2067-04-28",
+      "created_at": "2026-04-03"
     }
   }
 }
