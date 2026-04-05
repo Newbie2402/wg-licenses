@@ -719,7 +719,8 @@
       "allowed_devices": 3,
       "devices": [
         "2B5DF06C7B18DD35",
-        "B3E532A71C5D8817"
+        "B3E532A71C5D8817",
+        "FE13CA09BF3A017E"
       ],
       "banned": false,
       "expire_at": "2081-01-01",
