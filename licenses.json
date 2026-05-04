@@ -797,6 +797,15 @@
       "banned": false,
       "expire_at": "2108-06-13",
       "created_at": "2026-04-24"
+    },
+    "WG-MVFH-02IE-JD7S": {
+      "allowed_devices": 3,
+      "devices": [
+        "DFB89C0193775B94"
+      ],
+      "banned": false,
+      "expire_at": "2081-02-04",
+      "created_at": "2026-05-04"
     }
   }
 }
