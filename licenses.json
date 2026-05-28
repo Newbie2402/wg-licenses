@@ -833,6 +833,15 @@
       "banned": false,
       "expire_at": "2027-05-28",
       "created_at": "2026-05-28"
+    },
+    "WG-5N16-NNF2-56NB": {
+      "allowed_devices": 5,
+      "devices": [
+        "990C97EC7BCAFCE7"
+      ],
+      "banned": false,
+      "expire_at": "2163-04-20",
+      "created_at": "2026-05-28"
     }
   }
 }
