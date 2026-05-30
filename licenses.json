@@ -842,6 +842,15 @@
       "banned": false,
       "expire_at": "2163-04-20",
       "created_at": "2026-05-28"
+    },
+    "WG-9O5A-2YCZ-X57F": {
+      "allowed_devices": 3,
+      "devices": [
+        "24113D5CC243DD11"
+      ],
+      "banned": false,
+      "expire_at": "2163-04-22",
+      "created_at": "2026-05-30"
     }
   }
 }
