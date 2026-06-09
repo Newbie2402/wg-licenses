@@ -673,7 +673,8 @@
     "WG-C6KK-6KSA-GCH4": {
       "allowed_devices": 100,
       "devices": [
-        "28991DECDD88AE54"
+        "28991DECDD88AE54",
+        "CC1960CA5D49C9B9"
       ],
       "banned": false,
       "expire_at": "2080-12-18",
