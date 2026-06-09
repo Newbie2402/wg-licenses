@@ -852,6 +852,15 @@
       "banned": false,
       "expire_at": "2163-04-22",
       "created_at": "2026-05-30"
+    },
+    "WG-XMXZ-116U-5T3S": {
+      "allowed_devices": 5,
+      "devices": [
+        "D7FFFAD78DE98C13"
+      ],
+      "banned": false,
+      "expire_at": "2163-05-02",
+      "created_at": "2026-06-09"
     }
   }
 }
