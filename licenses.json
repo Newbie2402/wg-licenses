@@ -870,6 +870,15 @@
       "banned": false,
       "expire_at": "2040-02-17",
       "created_at": "2026-06-10"
+    },
+    "WG-43EH-HL1C-0R7Z": {
+      "allowed_devices": 1000,
+      "devices": [
+        "CC7F7E86B44FE9D8"
+      ],
+      "banned": false,
+      "expire_at": "2300-03-26",
+      "created_at": "2026-06-10"
     }
   }
 }
