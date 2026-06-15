@@ -879,6 +879,15 @@
       "banned": false,
       "expire_at": "2300-03-26",
       "created_at": "2026-06-10"
+    },
+    "WG-MMHG-JKUQ-6DDT": {
+      "allowed_devices": 3,
+      "devices": [
+        "503C1937CBA022B6"
+      ],
+      "banned": false,
+      "expire_at": "2163-05-08",
+      "created_at": "2026-06-15"
     }
   }
 }
