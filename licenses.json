@@ -892,7 +892,8 @@
     "WG-PZ48-TY50-A6VU": {
       "allowed_devices": 5,
       "devices": [
-        "3ED7CB3ACDD1DE70"
+        "3ED7CB3ACDD1DE70",
+        "8A2EB23BACF32A21"
       ],
       "banned": false,
       "expire_at": "2027-06-20",
