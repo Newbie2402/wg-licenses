@@ -899,6 +899,15 @@
       "banned": false,
       "expire_at": "2027-06-20",
       "created_at": "2026-06-20"
+    },
+    "WG-PTP4-ZFUT-OV5B": {
+      "allowed_devices": 3,
+      "devices": [
+        "866E272B8A38EEE3"
+      ],
+      "banned": false,
+      "expire_at": "2108-08-21",
+      "created_at": "2026-07-02"
     }
   }
 }
