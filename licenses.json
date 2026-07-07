@@ -829,7 +829,8 @@
     "WG-OCIW-4DEV-T8VS": {
       "allowed_devices": 5,
       "devices": [
-        "5CE1823959297E1A"
+        "5CE1823959297E1A",
+        "A2B1AFADF3A3A34F"
       ],
       "banned": false,
       "expire_at": "2027-05-28",
