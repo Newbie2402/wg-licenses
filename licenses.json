@@ -919,6 +919,15 @@
       "banned": false,
       "expire_at": "2125-02-01",
       "created_at": "2026-07-10"
+    },
+    "WG-E94R-VISO-CZ7P": {
+      "allowed_devices": 1,
+      "devices": [
+        "8F84AED617EA1DE5"
+      ],
+      "banned": false,
+      "expire_at": "2067-08-05",
+      "created_at": "2026-07-11"
     }
   }
 }
