@@ -928,6 +928,15 @@
       "banned": false,
       "expire_at": "2067-08-05",
       "created_at": "2026-07-11"
+    },
+    "WG-33YK-ZO83-4JFP": {
+      "allowed_devices": 1,
+      "devices": [
+        "611EE9CF9BB2E9F6"
+      ],
+      "banned": false,
+      "expire_at": "2067-08-07",
+      "created_at": "2026-07-13"
     }
   }
 }
