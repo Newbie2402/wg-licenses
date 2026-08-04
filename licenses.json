@@ -939,6 +939,15 @@
       "banned": false,
       "expire_at": "2067-08-07",
       "created_at": "2026-07-13"
+    },
+    "WG-E80G-TTT1-QZAS": {
+      "allowed_devices": 3,
+      "devices": [
+        "16E29FE793251696"
+      ],
+      "banned": false,
+      "expire_at": "2032-01-25",
+      "created_at": "2026-08-04"
     }
   }
 }
