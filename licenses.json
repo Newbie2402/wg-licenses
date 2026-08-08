@@ -948,6 +948,15 @@
       "banned": false,
       "expire_at": "2032-01-25",
       "created_at": "2026-08-04"
+    },
+    "WG-XBB6-QNIJ-5CYG": {
+      "allowed_devices": 3,
+      "devices": [
+        "5FE7033062500A91"
+      ],
+      "banned": false,
+      "expire_at": "2163-07-01",
+      "created_at": "2026-08-08"
     }
   }
 }
