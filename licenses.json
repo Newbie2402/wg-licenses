@@ -966,6 +966,15 @@
       "banned": false,
       "expire_at": "2032-02-17",
       "created_at": "2026-08-27"
+    },
+    "WG-2OS1-VNA4-MQRP": {
+      "allowed_devices": 5,
+      "devices": [
+        "FE993901B9B6BAE5"
+      ],
+      "banned": false,
+      "expire_at": "2033-07-01",
+      "created_at": "2026-08-27"
     }
   }
 }
