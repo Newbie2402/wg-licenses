@@ -975,6 +975,15 @@
       "banned": false,
       "expire_at": "2033-07-01",
       "created_at": "2026-08-27"
+    },
+    "WG-AS4O-O86M-NH8P": {
+      "allowed_devices": 5,
+      "devices": [
+        "33EC4B985A97E4B3"
+      ],
+      "banned": false,
+      "expire_at": "2163-07-26",
+      "created_at": "2026-09-02"
     }
   }
 }
