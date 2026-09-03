@@ -1002,6 +1002,15 @@
       "banned": false,
       "expire_at": "2027-09-03",
       "created_at": "2026-09-03"
+    },
+    "WG-BPAT-082M-8QOB": {
+      "allowed_devices": 100,
+      "devices": [
+        "84DCD71F22DD0FF9"
+      ],
+      "banned": false,
+      "expire_at": "2300-06-19",
+      "created_at": "2026-09-03"
     }
   }
 }
