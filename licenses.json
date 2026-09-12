@@ -1020,6 +1020,15 @@
       "banned": false,
       "expire_at": "2059-07-21",
       "created_at": "2026-09-12"
+    },
+    "WG-5R74-T8E8-CR7I": {
+      "allowed_devices": 3,
+      "devices": [
+        "E79EF8021DC24374"
+      ],
+      "banned": false,
+      "expire_at": "2059-07-21",
+      "created_at": "2026-09-12"
     }
   }
 }
