@@ -1038,6 +1038,15 @@
       "banned": false,
       "expire_at": "2081-06-15",
       "created_at": "2026-09-12"
+    },
+    "WG-RHSA-IBN4-Y6FA": {
+      "allowed_devices": 5,
+      "devices": [
+        "4B99738B5C839069"
+      ],
+      "banned": false,
+      "expire_at": "2163-08-09",
+      "created_at": "2026-09-16"
     }
   }
 }
