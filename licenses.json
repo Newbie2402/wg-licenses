@@ -1047,6 +1047,15 @@
       "banned": false,
       "expire_at": "2163-08-09",
       "created_at": "2026-09-16"
+    },
+    "WG-YWW7-ZWK8-G5Q8": {
+      "allowed_devices": 3,
+      "devices": [
+        "E79EF8021DC24374"
+      ],
+      "banned": false,
+      "expire_at": "2081-06-24",
+      "created_at": "2026-09-21"
     }
   }
 }
