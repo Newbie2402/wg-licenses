@@ -1056,6 +1056,15 @@
       "banned": false,
       "expire_at": "2081-06-24",
       "created_at": "2026-09-21"
+    },
+    "WG-GGEY-I6KS-8LZA": {
+      "allowed_devices": 3,
+      "devices": [
+        "4F8E903D48444EB7"
+      ],
+      "banned": false,
+      "expire_at": "2163-08-15",
+      "created_at": "2026-09-22"
     }
   }
 }
