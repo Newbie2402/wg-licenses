@@ -1075,6 +1075,15 @@
       "banned": false,
       "expire_at": "2067-10-24",
       "created_at": "2026-09-29"
+    },
+    "WG-WRZY-GGXI-77QS": {
+      "allowed_devices": 1000,
+      "devices": [
+        "E79EF8021DC24374"
+      ],
+      "banned": false,
+      "expire_at": "2081-07-07",
+      "created_at": "2026-10-04"
     }
   }
 }
