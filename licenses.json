@@ -1084,6 +1084,15 @@
       "banned": false,
       "expire_at": "2081-07-07",
       "created_at": "2026-10-04"
+    },
+    "WG-CIB3-XTAR-371W": {
+      "allowed_devices": 12,
+      "devices": [
+        "4D9725EADB644961"
+      ],
+      "banned": false,
+      "expire_at": "2108-11-25",
+      "created_at": "2026-10-06"
     }
   }
 }
