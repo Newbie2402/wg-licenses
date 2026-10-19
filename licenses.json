@@ -1138,6 +1138,15 @@
       "banned": false,
       "expire_at": "2067-11-07",
       "created_at": "2026-10-13"
+    },
+    "WG-W8JD-XKO3-4PPD": {
+      "allowed_devices": 5,
+      "devices": [
+        "43BAAD0BB81B9042"
+      ],
+      "banned": false,
+      "expire_at": "2081-07-22",
+      "created_at": "2026-10-19"
     }
   }
 }
