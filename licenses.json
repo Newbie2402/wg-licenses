@@ -1115,7 +1115,8 @@
     "WG-EYHV-H67B-XVXW": {
       "allowed_devices": 3,
       "devices": [
-        "F34ECF71BBAA00F0"
+        "F34ECF71BBAA00F0",
+        "B95A07A05976D441"
       ],
       "banned": false,
       "expire_at": "2032-03-30",
