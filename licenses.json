@@ -962,7 +962,8 @@
     "WG-XVY9-MTYZ-0HHH": {
       "allowed_devices": 5,
       "devices": [
-        "FE993901B9B6BAE5"
+        "FE993901B9B6BAE5",
+        "F60024C5645D33B4"
       ],
       "banned": false,
       "expire_at": "2032-02-17",
